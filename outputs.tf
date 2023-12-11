@@ -1,5 +1,5 @@
 output "vpc_id" {
-  value = aws_vpc.devops.id
+  value = aws_vpc.network.id
 }
 
 output "public_subnets_id" {
@@ -12,8 +12,8 @@ output "private_subnets_id" {
 
 
 output "igw_id" {
-  value = aws_internet_gateway.devops-igw.id
+  value = aws_internet_gateway.network-igw.id
 }
 output "nat_id" {
-  value = aws_nat_gateway.devops-nat.id
+  value = aws_nat_gateway.network-nat.id
 }
