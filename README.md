@@ -1,6 +1,6 @@
 # Network Module
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Ahmed-Elhgawy/network-module/blob/c5c4c0fab72a1649b203dc485f5840e815584ad0/network.png)
 
 ## Variables
 
